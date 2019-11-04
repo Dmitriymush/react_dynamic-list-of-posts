@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_dynamic-list-of-posts/static/css/main.ffe6eecb.chunk.css",
+    "main.js": "/react_dynamic-list-of-posts/static/js/main.b8efedf2.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-posts/static/js/main.b8efedf2.chunk.js.map",
+    "runtime~main.js": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js",
+    "runtime~main.js.map": "/react_dynamic-list-of-posts/static/js/runtime~main.69709ad2.js.map",
+    "static/js/2.5310ed81.chunk.js": "/react_dynamic-list-of-posts/static/js/2.5310ed81.chunk.js",
+    "static/js/2.5310ed81.chunk.js.map": "/react_dynamic-list-of-posts/static/js/2.5310ed81.chunk.js.map",
+    "index.html": "/react_dynamic-list-of-posts/index.html",
+    "precache-manifest.c94466aad767d0fda16876a98c03bd39.js": "/react_dynamic-list-of-posts/precache-manifest.c94466aad767d0fda16876a98c03bd39.js",
+    "service-worker.js": "/react_dynamic-list-of-posts/service-worker.js",
+    "static/css/main.ffe6eecb.chunk.css.map": "/react_dynamic-list-of-posts/static/css/main.ffe6eecb.chunk.css.map"
+  }
+}
